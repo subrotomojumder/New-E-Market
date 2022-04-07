@@ -1,0 +1,50 @@
+.container-fluid img{
+    height: 50px;
+}
+.container{margin-bottom: 100px;}
+.carousel{
+    background-image: url(images/bg-1.png);
+    background-repeat: no-repeat;
+    background-position: center;
+}
+.bg2{
+
+    background-image: url(images/bg-2.png);
+    background-repeat: no-repeat;
+    background-position: bottom;
+    background-position-x: left;
+    
+}
+.buy-now-button{
+    background-color: black;
+    padding: 5px 8px;
+    color: aquamarine;
+    border-radius: 10px;
+    cursor: pointer;
+}
+p{color: gray;}
+.card{
+    border: none;
+    border-radius: 20px;
+    box-shadow: 5px 5px 10px rebeccapurple;
+}
+.underline{
+    height: 5px;
+    width: 170px;
+    background-color: red;
+    border-radius: 10px;
+    margin-left: 20px;
+    margin-top: 0px;
+    margin-left: 43%;
+}
+.cate-pic img{
+    width: 100%;
+}
+.jjj{
+    height: 280px;
+    box-shadow: 5px 5px 20px brown;
+    border-radius: 20px;
+    border: none;
+}
+
+    
